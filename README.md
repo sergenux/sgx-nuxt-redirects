@@ -25,7 +25,7 @@ export default defineNuxtConfig({
 
 ```ts
 interface NuxtConfig {
-  sgxRedirects: ModuleOptions
+  sgxRedirects?: ModuleOptions
 }
 
 interface ModuleOptions {

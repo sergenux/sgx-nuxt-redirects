@@ -1,6 +1,6 @@
 {
   "name": "sgx-nuxt-redirects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Domain URL and trailing slash redirects for Nuxt",
   "repository": {
     "type": "git",

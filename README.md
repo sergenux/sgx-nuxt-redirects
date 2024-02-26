@@ -45,7 +45,7 @@ interface ModuleOptions {
 
 **Usage:**
 
-Enable domain URL redirect (in production mode):
+Enable domain URL redirect for production mode:
 
 ```ts
 // nuxt.config.ts
@@ -57,7 +57,7 @@ export default defineNuxtConfig({
 })
 ```
 
-Enable domain URL redirect in development mode:
+Enable domain URL redirect also for development mode:
 
 ```ts
 // nuxt.config.ts
